@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "status": "expired",
+    "color": "#218486"
+  },
+  {
+    "id": 2,
+    "name": "Jazze",
+    "status": "expired",
+    "color": "#218486"
+  },
+  {
+    "id": 3,
+    "name": "puie",
+    "status": "live",
+    "color": "#218486"
+  },
+  {
+    "id": 4,
+    "name": "Lallu",
+    "status": "next",
+    "color": "#218486"
+  },
+  {
+    "id": 5,
+    "name": "Pankaj",
+    "status": "later",
+    "color": "#218486"
+  },
+  {
+    "id": 6,
+    "name": "Rahul",
+    "status": "later",
+    "color": "#218486"
+  },
+  {
+    "id": 7,
+    "name": "Akash",
+    "status": "later",
+    "color": "#218486"
+  },
+  {
+    "id": 8,
+    "name": "Anurag",
+    "status": "later",
+    "color": "#218486"
+  }
+]
